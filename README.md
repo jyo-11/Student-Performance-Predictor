@@ -28,6 +28,8 @@ The dataset contains student-related information such as:
 * Extra-curricular involvement
 * Other academic and personal factors
 
+The dataset was sourced from Kaggle, and is publicly available at: 
+https://www.kaggle.com/datasets/janiobachmann/math-students 
 
 ## Tech Stack
 
@@ -48,40 +50,17 @@ student-performance-predictor/
 
 ---
 
-##  Installation & Usage
+## Results
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/student-performance-predictor.git
-   cd student-performance-predictor
-   ```
-
-2. Install the dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook student_performance_predictor.ipynb
-   ```
-
----
-
-## 📈 Results
-
-* Achieved **XX% accuracy** with \[Best Model Name].
+* Achieved **83%**.
 * Visual insights show strong correlation between study hours, attendance, and performance.
 * Students with consistent study habits tend to score significantly higher.
 
-*(Replace XX% and model name with your actual results once finalized.)*
+
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Deploy model as a web app using **Flask/Streamlit**
 * Add more features (sleep hours, social activities, stress levels, etc.)
@@ -99,6 +78,4 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 This project is licensed under the **MIT License**.
 
----
 
-Do you want me to also **create a `requirements.txt` file** (with libraries like numpy, pandas, scikit-learn, etc.) so your GitHub repo looks complete and professional?
