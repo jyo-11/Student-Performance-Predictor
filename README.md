@@ -42,10 +42,10 @@ https://www.kaggle.com/datasets/janiobachmann/math-students
 
 ```bash
 student-performance-predictor/
-│── student_performance_predictor.ipynb   # Main Jupyter Notebook
-│── README.md                             # Project Documentation
-│── requirements.txt                      # Dependencies (if added)
-│── data/                                 # Dataset folder (optional)
+│── student_performance_predictor.ipynb   
+│── README.md                             
+│── student-mat.csv                    
+                         
 ```
 
 ---
@@ -68,13 +68,13 @@ student-performance-predictor/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 
